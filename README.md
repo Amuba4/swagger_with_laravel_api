@@ -1,4 +1,6 @@
 # swagger_with_laravel_api
+
+Steps to install swagger in your laravel project 
 1)install swagger 
 composer require "darkaonline/swagger-lume:5.6.*"
 
